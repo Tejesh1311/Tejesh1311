@@ -15,10 +15,13 @@ Building **terminal tools**, **mobile apps**, and things that shouldn't exist. W
 
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=0175C2" />
+  <!--<img src="https://img.shields.io/badge/Dart-0d1117?style=for-the-badge&logo=dart&logoColor=0175C2" />
   <img src="https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=02569B" />
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/Lua-0d1117?style=for-the-badge&logo=lua&logoColor=2C2D72" />
+  <img src="https://img.shields.io/badge/Neovim-0d1117?style=for-the-badge&logo=neovim&logoColor=57A143" />
+  -->
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  
   <img src="https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=00ADD8" />
   <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
   <img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=4EAA25" />
@@ -26,9 +29,19 @@ Building **terminal tools**, **mobile apps**, and things that shouldn't exist. W
   <img src="https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=DC382D" />
   <img src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
   <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED" />
-  <img src="https://img.shields.io/badge/Neovim-0d1117?style=for-the-badge&logo=neovim&logoColor=57A143" />
+  
   <img src="https://img.shields.io/badge/Obsidian-0d1117?style=for-the-badge&logo=obsidian&logoColor=483699" />
-  <img src="https://img.shields.io/badge/Claude-0d1117?style=for-the-badge&logo=claude&logoColor=#D97757" />
+  <img src="https://img.shields.io/badge/Claude-0d1117?style=for-the-badge&logo=claude&logoColor=D97757" />
+  <img src="https://img.shields.io/badge/TensoeFlow-0d1117?style=for-the-badge&logo=TensorFlow&logoColor=FF6F00" />
+  <img src="https://img.shields.io/badge/Pytorch-0d1117?style=for-the-badge&logo=Pytorch&logoColor=EE4C2C" />
+
+  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=React&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/GIT-0d1117?style=for-the-badge&logo=GIT&logoColor=F03C2E" />
+  <img src="https://img.shields.io/badge/GithubActions-0d1117?style=for-the-badge&logo=GithubActions&logoColor=2088FF" />
+  <img src="https://img.shields.io/badge/Pytorch-0d1117?style=for-the-badge&logo=Pytorch&logoColor=EE4C2C" />
+  <img src="https://img.shields.io/badge/Pytorch-0d1117?style=for-the-badge&logo=Pytorch&logoColor=EE4C2C" />
+  <img src="https://img.shields.io/badge/Pytorch-0d1117?style=for-the-badge&logo=Pytorch&logoColor=EE4C2C" />
+  <img src="https://img.shields.io/badge/Pytorch-0d1117?style=for-the-badge&logo=Pytorch&logoColor=EE4C2C" />
 </div>
 
 <br>
